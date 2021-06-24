@@ -1,5 +1,5 @@
 terraform {
-  source = "git::ssh://git@github.com/Ankitchandre/terraform-eks.git//k8s/aws-eks?ref=main"
+  source = "git::ssh://git@github.com/Ankitchandre/terraform-eks.git//k8s/aws-eks?ref=master"
 }
 
 include {
